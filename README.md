@@ -11,4 +11,4 @@ Python, SQL, scikit-learn, Pandas, matplotlib
 
 **Part 3**: Conducted EDA on NYC taxi accident data. Focused on features similar to those in Part 2.
 
-**Part 4**: Completed feature engineering and constructed regression model for the purpose of predicting the duration of an NYC taxi ride based on given information. Fit the model on training data, validated, and tested. Built reusable data processing pipeline. Model achieved a mean absolute error (MAE) of 266, meaning it was off by roughly 3-5 minutes for an average taxi ride.
+**Part 4**: Completed feature engineering and constructed regression model for the purpose of predicting the duration of an NYC taxi ride based on given information. Fit the model on training data, validated, and tested. Built reusable data processing pipeline. Model achieved a mean absolute error (MAE) of 176, meaning it was off by roughly 1-3 minutes for an average taxi ride.
